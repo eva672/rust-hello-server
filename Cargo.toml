@@ -1,0 +1,8 @@
+[package]
+name = "rust_hello_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.19", features = ["full"] }
+axum = "0.6.0"
