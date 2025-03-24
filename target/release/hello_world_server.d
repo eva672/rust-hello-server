@@ -1,0 +1,1 @@
+/home/eva/Projects/rust/workspace/target/release/hello_world_server: /home/eva/Projects/rust/workspace/rust-file-upload-endpoint/public/index.html /home/eva/Projects/rust/workspace/rust-file-upload-endpoint/src/main.rs

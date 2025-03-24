@@ -1,0 +1,11 @@
+/home/eva/Projects/rust/workspace/target/debug/deps/libicu_normalizer-cd594121e117e09b.rmeta: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/properties.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/provider.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/eva/Projects/rust/workspace/target/debug/deps/libicu_normalizer-cd594121e117e09b.rlib: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/properties.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/provider.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/eva/Projects/rust/workspace/target/debug/deps/icu_normalizer-cd594121e117e09b.d: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/properties.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/provider.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/uts46.rs
+
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/lib.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/error.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/properties.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/provider.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/icu_normalizer-1.5.0/src/uts46.rs:

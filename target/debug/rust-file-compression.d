@@ -1,0 +1,1 @@
+/home/eva/Projects/rust/workspace/target/debug/rust-file-compression: /home/eva/Projects/rust/workspace/rust-file-compress/src/cmp.rs /home/eva/Projects/rust/workspace/rust-file-compress/src/compress_para.rs /home/eva/Projects/rust/workspace/rust-file-compress/src/main.rs

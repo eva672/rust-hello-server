@@ -1,0 +1,10 @@
+/home/eva/Projects/rust/workspace/target/release/deps/libwalkdir-f380205fdfd1b455.rmeta: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/home/eva/Projects/rust/workspace/target/release/deps/libwalkdir-f380205fdfd1b455.rlib: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/home/eva/Projects/rust/workspace/target/release/deps/walkdir-f380205fdfd1b455.d: /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs /home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs
+
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/lib.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/dent.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/error.rs:
+/home/eva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/walkdir-2.5.0/src/util.rs:
